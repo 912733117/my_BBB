@@ -20,7 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          repository: zzzjjjcccc123/my_secret_jd
+          repository: lcj1234567/my_BBB
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
